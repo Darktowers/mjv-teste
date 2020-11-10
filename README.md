@@ -65,7 +65,7 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Use some standard commit message format (+5)
 
 **Publication**
-- Publication of frontend for online access (+5)
+- Publication of frontend for online access (+15)
 - Backend publication for online access (+15)
 
 ## Frontend topics:
